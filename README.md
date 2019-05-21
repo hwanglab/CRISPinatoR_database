@@ -19,7 +19,7 @@ To generate the database, below data is required. Example data can be downloaded
 To test this source codes, please follow instructions below.
 1. clone this repository.
 ```
-git clone 
+git clone https://github.com/hwanglab/CRISPinatoR_database.git
 ```
 
 
@@ -29,6 +29,7 @@ wget https://drive.google.com/open?id=1_o31dnXGel2W-SdCw-XW3DtBaZdCJdVJ
 unzip example_data.zip
 ```
 
+From 3 to 5, you can execute example.sh instead of type individual command.
 
 3.Compile source codes.
 ```
